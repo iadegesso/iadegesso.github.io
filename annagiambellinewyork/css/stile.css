@@ -1,0 +1,66 @@
+h1  { 
+	color: red;
+	text-align: center;
+	margin: 16px;
+	background-color: rgb (255,255,255);
+	font-size: 27pt;
+	font-family: Coiny;
+	margin: 5 px 6pt 70% 6pt;
+	}
+  {
+    
+   }
+   
+nav {
+	border: solid 2px red;
+	border-radius: 3px;
+	font-size: 16pt;
+    }
+	
+h2   {
+     border: dotted 4px red;
+	 box-shadow: 6px 6px 4px gray;
+	 font-size: 25pt;
+	 background-color: rgb(135,206,235)
+   }
+    
+body {
+     background-color: rgba(255, 255, 51, 0.75);
+   }
+   
+p {
+	font-family: Freehand;
+	font-size: 18pt;
+}
+
+img {
+	width: 400px; height:280px;
+    border: solid 4px red;
+	border-radius: 6px;
+	box-shadow: 4px 4px 2px gray;
+}
+
+#intro { 
+         font-family: Arial;
+         font-size: 20pt; }
+	
+#logo {width: 1040px; height: 300px;}
+#foto { width: 400px; height: 800px }
+#pic { width: 600px; height: 800px }
+#photo{ width: 850px; height: 600px }
+#flag { width: 200px; height: 200px ;
+      
+	   border-radius: 100px;
+	   margin-right: 50px;
+	   margin-top: 30px
+	   }
+#gif  { width: 200px; height: 200px ;
+       float: left; 
+	   border-radius: 100px;
+	   margin-right: 50px;
+	   margin-top: 30px
+	   }
+	   
+	   
+   
+ 

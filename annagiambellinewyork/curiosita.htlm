@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <title> LUOGHI FAMOSI & ATTRAZIONI </title>
+ </head>
+  <body>
+  <header> 
+   <img src="images/I love NY.jpg" />
+   <h1> NEW YORK </h1>
+   <h2> The City that Never Sleeps. </h2>
+  </header>
+  <nav>
+   <a href="index.html"> HOME/ </a>
+   <a href="luoghiattrazioni.html"> LUOGHI FAMOSI & ATTRAZIONI/ </a>
+   <a href="curiosita.html"> CURIOSITA'/ </a>
+   <a href="index.html"> NEWS/ </a>
+   <a href="shopping.html"> SHOPPING/ </a>
+   <a href="food.html"> FOOD/ </a>
+   
+  </nav> 
+  <figure>
+   <img src="images/ny.jpg" />
+  </figure>
+  <h1> CURIOSITA' </h1>
+  <h2> LE MANCE A NEW YORK </h2>
+  <p> Che si tratti di un aspetto culturale newyorkese, americano, o di un’usanza presa nel tempo e fatta propria, rimane il fatto che le mance a New York sono praticamente obbligatorie.
+La mancia, detta “TIP”, concettualmente va lasciata a chiunque vi offra un servizio, sia esso il cameriere al ristorante che vi serve per cena, il fattorino che vi porta le valigie in camera, il barista che vi serve un drink, il tassista che vi scorrazza in giro per la città, eccetera, eccetera.
+Per quanto possa risultare difficile da comprendere per noi italiani, le mance per camerieri e fornitori di servizi in genere spesso rappresenta la grossa parte del loro stipendio, in quanto la loro retribuzione ordinaria è generalmente molto bassa. Nei ristoranti americani il servizio (coperto da noi) non è compreso del conto. </p>
+</html>
